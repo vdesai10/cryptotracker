@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a crypto tracker that tracks trending crypto currencies value and other useful information so that YOU GET RICH FAST!!!
 
+Tutorial watched: https://www.youtube.com/watch?v=9ohK7CapmIs
+
 ## Available Scripts
 
 In the project directory, you can run:
