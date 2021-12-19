@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# What is this Project
+
+This is a crypto tracker that tracks trending crypto currencies value and other useful information so that YOU GET RICH FAST!!!
+
 ## Available Scripts
 
 In the project directory, you can run:
